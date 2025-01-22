@@ -1,6 +1,6 @@
 # Notes App API
 
-This is a notes app API that allows users to authenticate and manage their notes. It is built using Node.js, Express, and MongoDB. This backend is for the frontend available [here](https://github.com/BiAksoy/notes-app-frontend).
+This is a notes app API that allows users to authenticate and manage their notes.
 
 ## Getting Started
 
